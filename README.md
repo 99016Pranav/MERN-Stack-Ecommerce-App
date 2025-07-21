@@ -37,8 +37,6 @@ It aims to provide a comprehensive example of building a modern e-commerce platf
 15. [Containerization](#containerization)
 16. [GitHub Actions & CI/CD](#github-actions--cicd)
 17. [Contributing](#contributing)
-18. [License](#license)
-19. [Creator](#creator)
 
 ## Introduction
 
@@ -610,17 +608,6 @@ Contributions to this project are welcome! Here are some ways you can contribute
 - Report bugs and request features by opening issues.
 - Implement new features or enhancements and submit pull requests.
 - Improve documentation and README files.
-
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-## Creator
-
-Fusion Electronics was created with ❤️ by:
-
-- **Son Nguyen** - [hoangsonww](https://github.com/hoangsonww)
-- **Email:** [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
 
 ---
 
